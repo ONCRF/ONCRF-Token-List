@@ -1,0 +1,17 @@
+{
+  "name": "OnlyCryptoFans",
+  "symbol": "ONCRF",
+  "type": "CRC20",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "https://t.me/OnlyCryptoFansOFFICIAL",
+  "twitter": "https://twitter.com/OnlyCryptoFans_",
+  "website": "https://www.onlycryptofans.app/",
+  "vested": [
+    "0x66D408e8db19433eD5381aE96Ae3f2fD6776cA04"
+  ],
+  "audits": [],
+  "explorer": "https://cronoscan.com/token/0xC7138Ccf4Fd367E89F8Cd465d802bB952D0737a7",
+  "id": "0xC7138Ccf4Fd367E89F8Cd465d802bB952D0737a7"
+}
